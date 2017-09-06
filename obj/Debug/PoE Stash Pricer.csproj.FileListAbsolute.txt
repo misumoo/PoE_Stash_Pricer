@@ -1,0 +1,10 @@
+C:\Users\Misumoo\Documents\Visual Studio 2017\Projects\PoE Stash Pricer\PoE Stash Pricer\bin\Debug\PoE Stash Pricer.exe.config
+C:\Users\Misumoo\Documents\Visual Studio 2017\Projects\PoE Stash Pricer\PoE Stash Pricer\bin\Debug\PoE Stash Pricer.exe
+C:\Users\Misumoo\Documents\Visual Studio 2017\Projects\PoE Stash Pricer\PoE Stash Pricer\bin\Debug\PoE Stash Pricer.pdb
+C:\Users\Misumoo\Documents\Visual Studio 2017\Projects\PoE Stash Pricer\PoE Stash Pricer\obj\Debug\PoE Stash Pricer.csprojResolveAssemblyReference.cache
+C:\Users\Misumoo\Documents\Visual Studio 2017\Projects\PoE Stash Pricer\PoE Stash Pricer\obj\Debug\PoE_Stash_Pricer.Form1.resources
+C:\Users\Misumoo\Documents\Visual Studio 2017\Projects\PoE Stash Pricer\PoE Stash Pricer\obj\Debug\PoE_Stash_Pricer.Properties.Resources.resources
+C:\Users\Misumoo\Documents\Visual Studio 2017\Projects\PoE Stash Pricer\PoE Stash Pricer\obj\Debug\PoE Stash Pricer.csproj.GenerateResource.Cache
+C:\Users\Misumoo\Documents\Visual Studio 2017\Projects\PoE Stash Pricer\PoE Stash Pricer\obj\Debug\PoE Stash Pricer.csproj.CoreCompileInputs.cache
+C:\Users\Misumoo\Documents\Visual Studio 2017\Projects\PoE Stash Pricer\PoE Stash Pricer\obj\Debug\PoE Stash Pricer.exe
+C:\Users\Misumoo\Documents\Visual Studio 2017\Projects\PoE Stash Pricer\PoE Stash Pricer\obj\Debug\PoE Stash Pricer.pdb
